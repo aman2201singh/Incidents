@@ -1,1 +1,1 @@
-## Incident ID	Symptoms	Resolution	Reason
+## Incident ID	        Symptoms	        Resolution        	Reason
