@@ -5,7 +5,7 @@
 | ####134504  |        | (overall-rate-low pulsar/astraproduction-azure-puls-prometheus critical) |
 
 | ####132901  |        | "Log query query result is > 1.0 for 2 minutes on 'Pulsar component OutOfDirectMemoryError alert' |
-                      | By New Relic" |
+                       | By New Relic" |
 
 | ####132536  |        | [FIRING:1]  (missing-function-critical pulsar/astraproduction-aws-useast-prometheus critical) |
 
