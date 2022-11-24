@@ -1,6 +1,6 @@
 ##Tables
-| Incident ID |	       | Symptoms |	       | Resolution |        | Reason |
-| ----------- |        | -------- |        | ---------- |        | ------ |
+| Incident ID |	       | Symptoms |
+| ----------- |        | -------- |
   
 | ####134504  |        | (overall-rate-low pulsar/astraproduction-azure-puls-prometheus critical) |
 
