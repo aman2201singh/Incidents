@@ -1,6 +1,6 @@
 
 
-## ***WebSocket persisted latency test failure***
+## WebSocket persisted latency test failure
 
 **Description**  
 The alert indicates that WebSocket persisted latency test failure.
