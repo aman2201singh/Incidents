@@ -13,7 +13,7 @@ df -h
 
 **Mitigation**
 
-It was found out that Journal/ledgers were filling up which makes more evident to increase the Volume
+It was found out that Journal/ledgers were filling up which makes more evident to increase the Volume  
 Steps taken:
 -   Changed pvc storage for pulsar-gcp-australiase1-bookkeeper-journal-pulsar-gcp-australiase1-bookkeeper-2 from 50Gi to 100Gi.
     
